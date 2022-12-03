@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Joy Debnath</h1>
 <h3 align="center">A passionate Full Stack Developer from Sydney, Australia.</h3>
 
-- 📝 I regularly write articles on <a href="https://www.groww.fyi">groww.fyi</a>
+- 📝 I regularly write articles on <a href="https://groww.beehiiv.com/">groww.fyi</a>
 
 - 📫 How to reach me **joy@debnath.work** OR **debnathjoy@hotmail.com**
 
